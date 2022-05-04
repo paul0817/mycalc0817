@@ -8,6 +8,7 @@ setuptools.setup(
   author = 'paul0817',
   author_email = 'pau10817@naver.com',
   url = 'https://github.com/paul0817/mycalc0817/',
+  download_url = 'https://github.com/paul0817/mycalc0817/archive/refs/tags/v1.0.0.zip',
   install_requires = ['pytest'], 
   long_description = 'mycalc0817',
   long_description_content_type = 'text/markdown',
